@@ -11,9 +11,8 @@ Der Buchstabe für diese Station ist
 
 Hier findest du dein nächstes Ziel:
 
-| Gruppe | Koordinaten |
-| ------ | ----------- |
-| Rot    | ...         |
-| Grün   | ...         |
-| Blau   | ...         |
-| Gelb   | ...         |
+| Gruppe | Koordinaten                                                                               |
+| ------ | ----------------------------------------------------------------------------------------- |
+| Rot    | [(52.1617, 10.48029)](https://www.google.com/maps/search/?api=1&query=52.1617%2C10.48029) |
+| Grün   | [(52.1617, 10.48029)](https://www.google.com/maps/search/?api=1&query=52.1617%2C10.48029) |
+| Blau   | [Zurück zum Start](finish)                                                                |
