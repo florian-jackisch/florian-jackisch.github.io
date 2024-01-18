@@ -4,3 +4,9 @@ _site
 .jekyll-metadata
 vendor
 bday-tools/.cache
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz

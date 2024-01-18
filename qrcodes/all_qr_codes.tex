@@ -1,0 +1,72 @@
+\documentclass[a4paper,oneside]{article}
+
+\usepackage{libertinus}
+\usepackage[T1]{fontenc}
+\renewcommand\familydefault{\sfdefault} 
+\usepackage[margin=2cm]{geometry} % Adjust the margin value as desired
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{caption}
+\captionsetup{justification=centering}
+\usepackage{url}
+\urlstyle{sf}
+\usepackage{hyperref}
+\usepackage{microtype}
+\usepackage{parskip}
+
+\newcommand{\myQRCodes}[2]{
+    \fbox{
+        \begin{minipage}[t][7cm][b]{7cm}
+        \begin{figure}[H]
+            \centering
+            \includegraphics[width=0.75\textwidth,keepaspectratio]{#1}
+            \caption*{\url{#2}}
+        \end{figure}
+        \end{minipage}
+    }
+}
+
+\newcommand{\explanation}{
+    \fbox{
+        \setlength{\skip0}{\parskip}
+        \begin{minipage}[t][7cm][c]{7cm}
+        \setlength\parskip{\skip0}
+Hallo Finder,
+
+Du hältst einen Geocache in der Hand für meine Geocache-Rallye.
+Bitte lege ihn wieder an seinen Platz zurück, damit unser Spiel funktionieren kann.
+
+Am 21. Januar 2024 werde ich den Cache wieder einsammeln.
+Sollte er dich dennoch stören, dann ruf mich bitte an unter der Telefonnummer \href{tel:01637948499}{0163 / 7948499}.
+
+Herzliche Grüße\\
+Florian Jackisch
+        \end{minipage}
+    }
+}
+
+\begin{document}
+
+\pagenumbering{gobble}
+
+\myQRCodes{index.png}{https://florian-jackisch.github.io}
+\myQRCodes{agile-antelope.png}{https://florian-jackisch.github.io/bday/agile-antelope}
+
+\myQRCodes{playful-penguin.png}{https://florian-jackisch.github.io/bday/playful-penguin}
+\myQRCodes{rugged-rhinoceros.png}{https://florian-jackisch.github.io/bday/rugged-rhinoceros}
+
+\myQRCodes{tiny-turtle.png}{https://florian-jackisch.github.io/bday/tiny-turtle}
+\myQRCodes{yawning-yak.png}{https://florian-jackisch.github.io/bday/yawning-yak}
+
+\newpage
+
+\explanation
+\explanation
+
+\explanation
+\explanation
+
+\explanation
+\explanation
+
+\end{document}
