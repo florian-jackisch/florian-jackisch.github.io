@@ -8,3 +8,6 @@ github_username: florian-jackisch
 
 # Build settings
 theme: minima
+exclude:
+  - bday-tools
+  - qrcodes
