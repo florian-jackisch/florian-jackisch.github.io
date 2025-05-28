@@ -1,27 +1,45 @@
-# Geocaching-Rallye
+# Geocaching-Rallye zu Ginas JGA
 
-Geocaching Pages for my birthday
+Es gibt 6 Webseiten.
 
-## Route Rot
+14.06.25
 
-1. R1 - Brückenbach - Pferde
-1. P1 - Grundschule - Spielplatz
-1. Y - Fümmelser Wieseneier
-1. T1 - Kirche - Gasse
-1. A - KiTa
+## **Fliegerhalle**
 
-## Route Grün
+- [ ] QR-Code generieren und drucken
+- Hier brauche ich keine Koordinaten, da wir hier starten
+- Diese Station liefert die Koordinaten für die nächste Station
+- PIN: 1
 
-1. A - KiTa
-1. T2 - Kirche - Bank
-1. R1 - Brückenbach - Pferde
-1. P1 - Grundschule - Spielplatz
-1. Y - Fümmelser Wieseneier
+## **Skaterpark**
 
-## Route Blau
+- [ ] QR-Code generieren und drucken
+- [ ] Cache verstecken und Koordinaten notieren
+- PIN: 14
 
-1. Y - Fümmelser Wieseneier
-1. P2 - Grundschule - Hühner
-1. A - KiTa
-1. T2 - Kirche - Bank
-1. R2 - Brückenbach - Baustelle
+## **Hochschule für Bildende Künste**
+
+- [ ] QR-Code generieren und drucken
+- [ ] Cache verstecken und Koordinaten notieren
+- PIN: 140
+
+## **Brüdernfriedhof**
+
+- [ ] QR-Code generieren und drucken
+- [ ] Cache verstecken und Koordinaten notieren
+- PIN: 1406
+
+## **Spielplatz Hohetorwall**
+
+- [ ] QR-Code generieren und drucken
+- [ ] Cache verstecken und Koordinaten notieren
+- PIN: 14062
+
+## **Pho Ta**
+
+- [ ] QR-Code generieren und drucken
+- [ ] Cache verstecken und Koordinaten notieren
+- Kein Cache
+- PIN: 140625
+
+## **Soldekk**
