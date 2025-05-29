@@ -5,9 +5,7 @@ layout: page
 
 Liebe Gina,
 
-du befindest dich nun am Brüdernfriedhof.
-
-... TODO ...
+du befindest dich nun am _Brüdernfriedhof_. Der Brüdernfriedhof in Braunschweig ist einer der ältesten erhaltenen Friedhöfe der Stadt. Er wurde im Jahr 1744 angelegt und diente ursprünglich als Begräbnisstätte für die Brüdernkirche. Viele bedeutende Persönlichkeiten aus Braunschweig fanden hier ihre letzte Ruhestätte.
 
 {% include pin.html %}
 

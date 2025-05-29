@@ -5,9 +5,7 @@ layout: page
 
 Liebe Gina,
 
-du befindest dich nun am Restaurant _Pho Ta_.
-
-... TODO ...
+du befindest dich nun am Restaurant _Pho Ta_, das für seine authentische Küche und gemütliche Atmosphäre bekannt ist. Besonders die traditionelle Pho-Suppe und verschiedene Reis- und Nudelgerichte werden hier frisch zubereitet.
 
 {% include pin.html %}
 

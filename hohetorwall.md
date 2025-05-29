@@ -5,9 +5,9 @@ layout: page
 
 Liebe Gina,
 
-du befindest dich nun am Spielplatz Hohetorwall.
+du befindest dich nun am Spielplatz _Hohetorwall_.
 
-... TODO ...
+Der Hohetorwall ist eine grüne Oase am westlichen Rand der Braunschweiger Innenstadt. Die Parkanlage entstand im 19. Jahrhundert auf den ehemaligen Wallanlagen der Stadtbefestigung. Die Nähe zur Oker macht den Park besonders attraktiv für Spaziergänge und Erholung.
 
 {% include pin.html %}
 

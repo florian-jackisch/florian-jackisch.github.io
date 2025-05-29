@@ -5,9 +5,9 @@ layout: page
 
 Liebe Gina,
 
-du befindest dich nun an der Hochschule für Bildende Künste.
+du befindest dich nun an der _Hochschule für Bildende Künste_ (HBK).
 
-... TODO ...
+Die HBK wurde 1963 gegründet und bietet Studiengänge in den Bereichen Kunst, Design, Kunstwissenschaft und Medienwissenschaft an. Sie ist bekannt für ihre offene, kreative Atmosphäre und ihre modernen Ateliers und Werkstätten.
 
 {% include pin.html %}
 
