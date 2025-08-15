@@ -1,4 +1,5 @@
 from pathlib import Path
+
 import segno
 
 qrcodes_dir = Path(__file__).parent.parent / "qrcodes"
