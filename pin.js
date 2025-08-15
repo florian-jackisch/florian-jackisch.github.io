@@ -10,6 +10,8 @@ let pinInput = document.getElementById(
     "pinpad-input"
 );
 
+
+// Add click event listeners for pinpad buttons
 for (let i = 0; i < btns.length; i++) {
     let btn = btns.item(i);
     if (
@@ -18,17 +20,19 @@ for (let i = 0; i < btns.length; i++) {
             btn.id === "delete-btn")
     )
         continue;
-
-    // Add onclick event listener to 
-    // Every button from 0 - 9
     btn.addEventListener(
         "click",
         (e) => {
-            pinInput.value +=
-                e.target.value;
+            pinInput.value += e.target.value;
+            pinInput.focus();
         }
     );
 }
+
+// Only allow numbers to be typed in the input field
+pinInput.addEventListener("input", function (e) {
+    this.value = this.value.replace(/[^0-9]/g, "");
+});
 
 let submitBtn = document.getElementById(
     "submit-btn"
