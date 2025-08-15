@@ -1,5 +1,5 @@
 ---
-title: Fünfte Station
+title: Ziel
 layout: page
 ---
 
