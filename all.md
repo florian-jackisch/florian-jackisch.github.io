@@ -1,5 +1,5 @@
 ---
-title: Alle Links von Ginas Geocaching-Rallye
+title: Alle Links zur BVL-Geocaching-Rallye
 layout: page
 ---
 
@@ -7,17 +7,14 @@ layout: page
 
 Hier findest du die QR-Codes zu den einzelnen Stationen:
 
-### [Erste Station – Apple](apple)
+### [Erste Station – P&R-Parkplatz](apple)
 ![Apple QR-Code](qrcodes/apple.png)
 
-### [Zweite Station – Banana](banana)
+### [Zweite Station – Bank](banana)
 ![Banana QR-Code](qrcodes/banana.png)
 
-### [Dritte Station – Carrot](carrot)
+### [Dritte Station – Kreuzung](carrot)
 ![Carrot QR-Code](qrcodes/carrot.png)
 
-### [Vierte Station – Dragonfruit](dragonfruit)
+### [Vierte Station – Aussichtsturm](dragonfruit)
 ![Dragonfruit QR-Code](qrcodes/dragonfruit.png)
-
-### [Fünfte Station – Eggplant](eggplant)
-![Eggplant QR-Code](qrcodes/eggplant.png)
