@@ -8,4 +8,4 @@ exclude:
   - qrcodes
 
 header_pages:
-  - apple.md
+  - index.html
