@@ -1,5 +1,5 @@
 ---
-title: Zweite Station
+title: Zweite Station – Bank
 layout: page
 ---
 
