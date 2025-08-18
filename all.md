@@ -7,30 +7,17 @@ layout: page
 
 Hier findest du die QR-Codes zu den einzelnen Stationen:
 
-### [Station 1 – Fliegerhalle](fliegerhalle)
+### [Erste Station – Apple](apple)
+![Apple QR-Code](qrcodes/apple.png)
 
-![Fliegerhalle QR-Code](qrcodes/fliegerhalle.png)
+### [Zweite Station – Banana](banana)
+![Banana QR-Code](qrcodes/banana.png)
 
-### [Station 2 – Geocache am Skaterpark](skaterpark)
+### [Dritte Station – Carrot](carrot)
+![Carrot QR-Code](qrcodes/carrot.png)
 
-![Skaterpark QR-Code](qrcodes/skaterpark.png)
+### [Vierte Station – Dragonfruit](dragonfruit)
+![Dragonfruit QR-Code](qrcodes/dragonfruit.png)
 
-### [Station 3 – Geocache an der HBK](hbk)
-
-![HBK QR-Code](qrcodes/hbk.png)
-
-### [Station 4 – Geocache am Brüdernfriedhof](friedhof)
-
-![Brüdernfriedhof QR-Code](qrcodes/friedhof.png)
-
-### [Station 5 – Geocache am Spielplatz Hohetorwall](hohetorwall)
-
-![Spielplatz Hohetorwall QR-Code](qrcodes/hohetorwall.png)
-
-### [Station 7 – Pho Ta](pho_ta)
-
-![Restaurant Pho Ta QR-Code](qrcodes/pho_ta.png)
-
-### [Station 6 – Soldekk](soldekk)
-
-![Soldekk QR-Code](qrcodes/soldekk.png)
+### [Fünfte Station – Eggplant](eggplant)
+![Eggplant QR-Code](qrcodes/eggplant.png)
