@@ -6,3 +6,6 @@ theme: minima
 exclude:
   - bday-tools
   - qrcodes
+
+header_pages:
+  - apple.md

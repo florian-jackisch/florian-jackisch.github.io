@@ -8,4 +8,4 @@ gem "jekyll", "~> 4.4"
 
 gem "webrick", "~> 1.9"
 
-gem "minima", github: "jekyll/minima"
+gem "minima", "~> 2.5"
