@@ -5,3 +5,4 @@ description: "BVL-Geocache-Rallye"
 theme: minima
 exclude:
   - bday-tools
+  - qrcodes
