@@ -9,7 +9,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendi
 
 <html>
     <div id="coordinates" class="text-center" style="display:none">
-        <a href="{% include carrot_map_link.html %}">Nächste Station</a><br>
+        <h3>
+            <a href="{% include carrot_map_link.html %}">Nächste Station</a>
+        </h3>
         {% include carrot_map.html %}
     </div>
 
