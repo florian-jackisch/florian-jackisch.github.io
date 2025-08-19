@@ -9,8 +9,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendi
 
 <html>
     <div id="coordinates" class="text-center" style="display:none">
-        Herzlichen Glückwunsch! Ihr habt den letzten Geocache gefunden.
-        Nun geht es <a href="{% include apple_map_link.html %}">zurück zum Parkplatz</a>.<br>
+        🎉 Herzlichen Glückwunsch! Ihr habt den letzten Geocache gefunden. 🎊
+        Nun geht es <a href="{% include apple_map_link.html %}">zurück zum Parkplatz 🅿️</a>.<br>
         {% include apple_map.html %}
     </div>
 
