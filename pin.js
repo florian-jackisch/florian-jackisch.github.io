@@ -34,6 +34,13 @@ pinInput.addEventListener("input", function (e) {
     this.value = this.value.replace(/[^0-9]/g, "");
 });
 
+// Allow pressing Enter to submit the PIN
+pinInput.addEventListener("keydown", function(e) {
+    if (e.key === "Enter") {
+        submitBtn.click();
+    }
+});
+
 let submitBtn = document.getElementById(
     "submit-btn"
 );
