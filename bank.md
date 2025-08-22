@@ -3,7 +3,9 @@ title: Zweite Station – Bank
 layout: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
+Herzlichen Glückwunsch zu eurem ersten gefundenen Geocache!
+Jetzt kommt etwas Bewegung ins Spiel mit der _Kleiderkette_.
+Wenn ihr die Aufgabe meistert, erhaltet ihr den nächsten Code.
 
 {% include pin.html %}
 

@@ -3,7 +3,8 @@ title: Dritte Station – Kreuzung
 layout: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
+Na, habt ihr die Umgebung an den Teichen schon ein wenig erkundet?
+Passend dazu gibt es für den nächsten Code eine spannende Suchaufgabe.
 
 {% include pin.html %}
 

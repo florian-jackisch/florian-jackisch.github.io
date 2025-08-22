@@ -3,7 +3,9 @@ title: Vierte Station – Aussichtsturm
 layout: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
+Ist diese Aussicht nicht herrlich?
+Jetzt ist noch einmal euer Wissen oder eure Einschätzung gefragt –
+diesmal zu dem Ort, an dem ihr euch befindet.
 
 {% include pin.html %}
 

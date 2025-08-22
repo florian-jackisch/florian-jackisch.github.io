@@ -3,7 +3,10 @@ title: Erste Station – P&R-Parkplatz
 layout: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
+Guten Morgen und herzlich willkommen zu unserer gemeinsamen Geocaching-Tour rund um die Riddagshausener Teiche!
+
+Bevor ihr von uns den Code für die ersten Koordinaten erhaltet, ist euer Wissen zum BVL gefragt.
+Wir wünschen euch viel Erfolg und vor allem ganz viel Spaß!
 
 {% include pin.html %}
 
