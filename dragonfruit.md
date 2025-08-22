@@ -14,10 +14,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendi
 
         <span style="font-weight: normal;">
             Ihr habt den letzten Geocache gefunden.
-            Nun geht es <a href="{% include apple_map_link.html %}">zurück zum Parkplatz 🅿️</a>.<br>
+            Nun geht es <a href="{% include parkplatz_map_link.html %}">zurück zum Parkplatz 🅿️</a>.<br>
         </span>
 
-        {% include apple_map.html %}
+    {% include parkplatz_map.html %}
     </div>
 
     <script>

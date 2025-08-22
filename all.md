@@ -7,8 +7,8 @@ layout: page
 
 Hier findest du die QR-Codes zu den einzelnen Stationen:
 
-### [Erste Station – P&R-Parkplatz](apple)
-![Apple QR-Code](qrcodes/apple.png)
+### [Erste Station – P&R-Parkplatz](parkplatz)
+![Parkplatz QR-Code](qrcodes/parkplatz.png)
 
 ### [Zweite Station – Bank](banana)
 ![Banana QR-Code](qrcodes/banana.png)
