@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendi
     </div>
 
     <script>
-        let correctPin = "1234";
+        let correctPin = "0021";
     </script>
     <script src="./pin.js"></script>
 
