@@ -10,9 +10,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendi
 <html>
     <div id="coordinates" class="text-center" style="display:none">
         <h3>
-            <a href="{% include dragonfruit_map_link.html %}">Nächste Station</a>
+            <a href="{% include turm_map_link.html %}">Nächste Station</a>
         </h3>
-        {% include dragonfruit_map.html %}
+        {% include turm_map.html %}
     </div>
 
     <script>

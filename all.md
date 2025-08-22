@@ -16,5 +16,5 @@ Hier findest du die QR-Codes zu den einzelnen Stationen:
 ### [Dritte Station – Kreuzung](kreuzung)
 ![Kreuzung QR-Code](qrcodes/kreuzung.png)
 
-### [Vierte Station – Aussichtsturm](dragonfruit)
-![Dragonfruit QR-Code](qrcodes/dragonfruit.png)
+### [Vierte Station – Aussichtsturm](turm)
+![Aussichtsturm QR-Code](qrcodes/turm.png)
