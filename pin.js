@@ -72,6 +72,13 @@ submitBtn.addEventListener(
             // show the div coordinates
             document.getElementById("coordinates").style.display = "block";
             document.getElementById("pinpad").style.display = "none";
+
+            // Only for turm.md: Replace duck_turm.jpeg with duck_party.jpeg if present
+            var turmImg = document.querySelector('img[src="images/duck_turm.jpeg"]');
+            if (turmImg) {
+                turmImg.src = "images/duck_party.jpeg";
+                turmImg.alt = "Ente feiert";
+            }
         } else {
             alert("Falsche PIN");
         }
