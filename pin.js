@@ -24,7 +24,6 @@ for (let i = 0; i < btns.length; i++) {
         "click",
         (e) => {
             pinInput.value += e.target.value;
-            pinInput.focus();
         }
     );
 }
