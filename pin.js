@@ -35,7 +35,7 @@ pinInput.addEventListener("input", function (e) {
 });
 
 // Allow pressing Enter to submit the PIN
-pinInput.addEventListener("keydown", function(e) {
+pinInput.addEventListener("keydown", function (e) {
     if (e.key === "Enter") {
         submitBtn.click();
     }
@@ -79,6 +79,12 @@ submitBtn.addEventListener(
                 turmImg.src = "images/duck_party.jpeg";
                 turmImg.alt = "Ente feiert";
             }
+            // Always show confetti on correct PIN
+            if (typeof confetti === 'function') {
+                confetti({
+                    particleCount: 150,
+                });
+            }
         } else {
             alert("Falsche PIN");
         }
@@ -93,6 +99,6 @@ delBtn.addEventListener("click", () => {
             pinInput.value.substr(
                 0,
                 pinInput.value.length -
-                    1
+                1
             );
 });

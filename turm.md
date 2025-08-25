@@ -27,6 +27,7 @@ diesmal zu dem Ort, an dem ihr euch befindet.
     <script>
         let correctPin = "1842";
     </script>
+    <script src="./confetti.browser.min.js"></script>
     <script src="./pin.js"></script>
 
 </html>
