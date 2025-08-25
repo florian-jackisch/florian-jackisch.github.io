@@ -8,7 +8,7 @@ Guten Morgen und herzlich willkommen zu unserer gemeinsamen Geocaching-Tour rund
 Bevor ihr von uns den Code für die ersten Koordinaten erhaltet, ist euer Wissen zum BVL gefragt.
 Wir wünschen euch viel Erfolg und vor allem ganz viel Spaß!
 
-![Ente auf dem P&R-Parkplatz](images/duck_parkplatz.jpeg){: style="border-radius: 16px;" }
+![Ente auf dem P&R-Parkplatz](images/duck_parkplatz.webp){: style="border-radius: 16px;" }
 
 {% include pin.html %}
 

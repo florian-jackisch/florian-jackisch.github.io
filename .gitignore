@@ -10,3 +10,4 @@ bday-tools/.cache
 *.log
 *.out
 *.synctex.gz
+.DS_Store
