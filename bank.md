@@ -7,7 +7,7 @@ Herzlichen Glückwunsch zu eurem ersten gefundenen Geocache!
 Jetzt kommt etwas Bewegung ins Spiel mit der _Kleiderkette_.
 Wenn ihr die Aufgabe meistert, erhaltet ihr den nächsten Code.
 
-![Ente vor der Sitzbank](images/duck_bank.jpeg){: style="border-radius: 16px;" }
+![Ente vor der Sitzbank](images/duck_bank.webp){: style="border-radius: 16px;" }
 
 {% include pin.html %}
 

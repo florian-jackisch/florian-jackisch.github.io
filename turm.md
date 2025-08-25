@@ -9,10 +9,10 @@ diesmal zu dem Ort, an dem ihr euch befindet.
 
 <html>
     <div id="duck1">
-        <img src="images/duck_turm.jpeg" alt="Ente auf Aussichtsturm" style="border-radius: 16px;" />
+    <img src="images/duck_turm.webp" alt="Ente auf Aussichtsturm" style="border-radius: 16px;" />
     </div>
     <div id="duck2" style="display:none">
-        <img src="images/duck_party.jpeg" alt="Ente macht Party" style="border-radius: 16px;" />
+    <img src="images/duck_party.webp" alt="Ente macht Party" style="border-radius: 16px;" />
     </div>
 </html>
 
