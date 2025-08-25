@@ -7,25 +7,25 @@ layout: page
 
 Hier findest du die QR-Codes zu den einzelnen Stationen:
 
-### [Erste Station – P&R-Parkplatz](parkplatz)
+### [1. Station – P&R-Parkplatz](parkplatz)
 
 **PIN:** 2025
 
 ![Parkplatz QR-Code](qrcodes/parkplatz.png)
 
-### [Zweite Station – Sitzbank](bank)
+### [2. Station – Sitzbank](bank)
 
 **PIN:** 2608
 
 ![Sitzbank QR-Code](qrcodes/bank.png)
 
-### [Dritte Station – Kreuzung](kreuzung)
+### [3. Station – Kreuzung](kreuzung)
 
 **PIN:** 0021
 
 ![Kreuzung QR-Code](qrcodes/kreuzung.png)
 
-### [Vierte Station – Aussichtsturm](turm)
+### [4. Station – Aussichtsturm](turm)
 
 **PIN:** 1842
 

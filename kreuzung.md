@@ -1,5 +1,5 @@
 ---
-title: Dritte Station – Kreuzung
+title: 3. Station – Kreuzung
 layout: page
 ---
 

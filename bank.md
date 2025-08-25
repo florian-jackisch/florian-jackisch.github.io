@@ -1,5 +1,5 @@
 ---
-title: Zweite Station – Sitzbank
+title: 2. Station – Sitzbank
 layout: page
 ---
 

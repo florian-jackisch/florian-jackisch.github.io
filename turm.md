@@ -1,5 +1,5 @@
 ---
-title: Vierte Station – Aussichtsturm
+title: 4. Station – Aussichtsturm
 layout: page
 ---
 
