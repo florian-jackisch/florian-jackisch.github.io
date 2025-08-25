@@ -7,6 +7,8 @@ Ist diese Aussicht nicht herrlich?
 Jetzt ist noch einmal euer Wissen oder eure Einschätzung gefragt –
 diesmal zu dem Ort, an dem ihr euch befindet.
 
+![Ente auf Aussichtsturm](images/duck_turm.jpeg){: style="border-radius: 16px;" }
+
 {% include pin.html %}
 
 <html>
