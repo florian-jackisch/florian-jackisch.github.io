@@ -73,13 +73,13 @@ submitBtn.addEventListener(
             document.getElementById("coordinates").style.display = "block";
             document.getElementById("pinpad").style.display = "none";
 
-            // Only for turm.md: Replace duck_turm.jpeg with duck_party.jpeg if present
-            var turmImg = document.querySelector('img[src="images/duck_turm.jpeg"]');
-            if (turmImg) {
-                turmImg.src = "images/duck_party.jpeg";
-                turmImg.alt = "Ente feiert";
-            }
-            // Always show confetti on correct PIN
+            // Hide the div "duck1" and show the div "duck2" if they exist
+            const duck1 = document.getElementById("duck1");
+            const duck2 = document.getElementById("duck2");
+            if (duck1) duck1.style.display = "none";
+            if (duck2) duck2.style.display = "block";
+
+            // Show confetti on correct PIN
             if (typeof confetti === 'function') {
                 confetti({
                     particleCount: 150,

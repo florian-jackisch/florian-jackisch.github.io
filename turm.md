@@ -7,7 +7,14 @@ Ist diese Aussicht nicht herrlich?
 Jetzt ist noch einmal euer Wissen oder eure Einschätzung gefragt –
 diesmal zu dem Ort, an dem ihr euch befindet.
 
-![Ente auf Aussichtsturm](images/duck_turm.jpeg){: style="border-radius: 16px;" }
+<html>
+    <div id="duck1">
+        <img src="images/duck_turm.jpeg" alt="Ente auf Aussichtsturm" style="border-radius: 16px;" />
+    </div>
+    <div id="duck2" style="display:none">
+        <img src="images/duck_party.jpeg" alt="Ente macht Party" style="border-radius: 16px;" />
+    </div>
+</html>
 
 {% include pin.html %}
 
